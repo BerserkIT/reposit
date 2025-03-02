@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/reposit/static/css/main.5ea3ae9b.css",
-    "main.js": "/reposit/static/js/main.0cef8719.js",
+    "main.css": "/reposit/static/css/main.431576af.css",
+    "main.js": "/reposit/static/js/main.2265fe52.js",
     "static/media/bg.png": "/reposit/static/media/bg.3c43958987cd85d182c4.png",
     "static/media/Onest-Regular.woff2": "/reposit/static/media/Onest-Regular.c2e8ccad20fa689e5074.woff2",
     "static/media/vase_cat.png": "/reposit/static/media/vase_cat.9ea2aca6199b6d83b395.png",
@@ -17,14 +17,15 @@
     "static/media/whatsapp-solid.svg": "/reposit/static/media/whatsapp-solid.b484a0d0021ba43d5414.svg",
     "static/media/ic_sharp-telegram.svg": "/reposit/static/media/ic_sharp-telegram.73ec4956712fc17e78be.svg",
     "static/media/telegram.svg": "/reposit/static/media/telegram.1c4b538b9f0fee776163.svg",
+    "static/media/ph_phone-fill.svg": "/reposit/static/media/ph_phone-fill.d732755f36646cd4795d.svg",
     "index.html": "/reposit/index.html",
     "static/media/selector.svg": "/reposit/static/media/selector.bf3522be0d37dc1dbe25.svg",
     "static/media/place.svg": "/reposit/static/media/place.fc76aa9d2b10b4e240bb.svg",
-    "main.5ea3ae9b.css.map": "/reposit/static/css/main.5ea3ae9b.css.map",
-    "main.0cef8719.js.map": "/reposit/static/js/main.0cef8719.js.map"
+    "main.431576af.css.map": "/reposit/static/css/main.431576af.css.map",
+    "main.2265fe52.js.map": "/reposit/static/js/main.2265fe52.js.map"
   },
   "entrypoints": [
-    "static/css/main.5ea3ae9b.css",
-    "static/js/main.0cef8719.js"
+    "static/css/main.431576af.css",
+    "static/js/main.2265fe52.js"
   ]
 }
