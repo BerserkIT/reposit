@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/reposit/static/css/main.02b5b1f2.css",
+    "main.js": "/reposit/static/js/main.bdf9f7b5.js",
+    "static/media/bg.png": "/reposit/static/media/bg.3c43958987cd85d182c4.png",
+    "static/media/Onest-Regular.woff2": "/reposit/static/media/Onest-Regular.c2e8ccad20fa689e5074.woff2",
+    "static/media/vase_cat.png": "/reposit/static/media/vase_cat.9ea2aca6199b6d83b395.png",
+    "static/media/one_cat.png": "/reposit/static/media/one_cat.22ac7fbe9ccc4488a850.png",
+    "static/media/cartoon_cat.png": "/reposit/static/media/cartoon_cat.68ec075b1fd4cf70a753.png",
+    "static/media/Onest-Medium.woff2": "/reposit/static/media/Onest-Medium.085cce488a3bf3af4528.woff2",
+    "static/media/Onest-Black.woff2": "/reposit/static/media/Onest-Black.8e78660efbb9975adc4c.woff2",
+    "static/media/entypo-social_vk-with-circle.svg": "/reposit/static/media/entypo-social_vk-with-circle.e53d8406593559fde420.svg",
+    "static/media/vk-with-circle.svg": "/reposit/static/media/vk-with-circle.7db43e968cd6fb96eb1f.svg",
+    "static/media/icon-park-solid_phone-call.svg": "/reposit/static/media/icon-park-solid_phone-call.fcb989df1e5b2d4be21e.svg",
+    "static/media/phone-call.svg": "/reposit/static/media/phone-call.3cef47ff9102d0ad02ca.svg",
+    "static/media/iconoir_whatsapp-solid.svg": "/reposit/static/media/iconoir_whatsapp-solid.e4cbf957d79cb66dcbad.svg",
+    "static/media/whatsapp-solid.svg": "/reposit/static/media/whatsapp-solid.b484a0d0021ba43d5414.svg",
+    "static/media/ic_sharp-telegram.svg": "/reposit/static/media/ic_sharp-telegram.73ec4956712fc17e78be.svg",
+    "static/media/telegram.svg": "/reposit/static/media/telegram.1c4b538b9f0fee776163.svg",
+    "index.html": "/reposit/index.html",
+    "static/media/selector.svg": "/reposit/static/media/selector.bf3522be0d37dc1dbe25.svg",
+    "static/media/place.svg": "/reposit/static/media/place.fc76aa9d2b10b4e240bb.svg",
+    "main.02b5b1f2.css.map": "/reposit/static/css/main.02b5b1f2.css.map",
+    "main.bdf9f7b5.js.map": "/reposit/static/js/main.bdf9f7b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02b5b1f2.css",
+    "static/js/main.bdf9f7b5.js"
+  ]
+}
